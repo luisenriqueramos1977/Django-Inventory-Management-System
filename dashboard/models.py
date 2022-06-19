@@ -6,6 +6,8 @@ CATEGORY = (
     ('Stationary', 'Stationary'),
     ('Electronics', 'Electronics'),
     ('Food', 'Food'),
+    ('Cars', 'cars'),
+    ('Bycicles', 'Bycicles'),
 )
 
 
